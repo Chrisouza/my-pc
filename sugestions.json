@@ -1,0 +1,5 @@
+[
+    {"system":"xubuntu", "arcteture":"x86_64", "ram":"2", "interface":"xfce"},
+    {"system":"mint", "arcteture":"x86_64", "ram":"2", "interface":"xfce"},
+    {"system":"debian", "arcteture":"x86_64", "ram":"2", "interface":"xfce"}
+]
